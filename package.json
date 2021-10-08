@@ -1,4 +1,19 @@
 {
-    "name": "@rcaziraghi/UI5BarCodeReader",
-    "version": "1.0.0"
+  "name": "@rcaziraghi/ui5barcodereader",
+  "version": "1.0.0",
+  "description": "Leitor de codigo de barras para UI5",
+  "main": "BarCodeReader.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rcaziraghi/UI5BarCodeReader.git"
+  },
+  "author": "mauro.ikm/rafael.c",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rcaziraghi/UI5BarCodeReader/issues"
+  },
+  "homepage": "https://github.com/rcaziraghi/UI5BarCodeReader#readme"
 }

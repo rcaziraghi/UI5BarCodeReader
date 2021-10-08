@@ -1,6 +1,6 @@
 sap.ui.define([
     "sap/ui/core/Control",
-    "./quagga.min",
+    "./quagga/quagga.min",
     "./models",
     "sap/m/Button",
     "sap/m/Dialog",
