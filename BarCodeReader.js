@@ -43,7 +43,7 @@ sap.ui.define([
                 openDialogWidth: { type: "sap.ui.core.CSSSize", defaultValue: "10rem" },
                 /* Fechar ao detectar */
                 closeOnDetect: { type: "boolean", defaultValue: false },
-                showInput: { type: "boolean", defaultValue: false }
+                showInput: { type: "boolean", defaultValue: true }
 
             },
             aggregations: {

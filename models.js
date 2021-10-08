@@ -11,7 +11,7 @@ sap.ui.define([
             if (!this.i18nModel) {
                 this.i18nModel = new ResourceModel({
                     bundle: ResourceBundle.create({
-                        bundleName: "UI5BarCodeReader.messagebundle"
+                        bundleName: "barcodereader.barcodereader.libs.UI5BarCodeReader.messageBundle.messagebundle"
                     }),
                 });
             }
