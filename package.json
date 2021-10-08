@@ -1,6 +1,6 @@
 {
   "name": "@rcaziraghi/ui5barcodereader",
-  "version": "1.0.0",
+  "version": "1.0.00001",
   "description": "Leitor de codigo de barras para UI5",
   "main": "BarCodeReader.js",
   "scripts": {
