@@ -20,7 +20,7 @@ sap.ui.define([
         BARCODE_OPEN_DIALOG_TEXT = Models.getText("BARCODE_OPEN_DIALOG_TEXT")
         ;
 
-    return Control.extend("BarCodeReader.deloitte.com", {
+    return Control.extend("UI5BarCodeReader", {
         metadata: {
 
             properties: {
